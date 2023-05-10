@@ -299686,7 +299686,7 @@
       "ExtraSizeDown": 0,
       "ExtraSizeForceAdd": false,
       "MergesWithChildren": false,
-      "CanSellOnRagfair": false,
+      "CanSellOnRagfair": true,
       "CanRequireOnRagfair": false,
       "ConflictingItems": [],
       "Unlootable": false,

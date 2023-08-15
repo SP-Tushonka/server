@@ -22733,7 +22733,7 @@
         {
           "_id": "63e0e38a69739d1115030438",
           "_mergeSlotWithChildren": false,
-          "_name": "mod_pistolgrip",
+          "_name": "mod_pistol_grip",
           "_parent": "56e0598dd2720bb5668b45a6",
           "_props": {
             "filters": [

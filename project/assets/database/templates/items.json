@@ -5874,7 +5874,7 @@
         "rcid": ""
       },
       "Velocity": 7,
-        "Weight": 1.4,
+      "Weight": 1.4,
       "Width": 3
     },
     "_type": "Item"
@@ -6496,7 +6496,7 @@
         "rcid": ""
       },
       "Velocity": 0,
-        "Weight": 1.88,
+      "Weight": 1.88,
       "Width": 2,
       "ammoCaliber": "Caliber12g",
       "bEffDist": 100,
@@ -8002,7 +8002,7 @@
         "rcid": ""
       },
       "Velocity": 15.21,
-        "Weight": 1.6,
+      "Weight": 1.6,
       "Width": 5
     },
     "_type": "Item"
@@ -22733,7 +22733,7 @@
         {
           "_id": "63e0e38a69739d1115030438",
           "_mergeSlotWithChildren": false,
-          "_name": "mod_pistol_grip",
+            "_name": "mod_pistolgrip",
           "_parent": "56e0598dd2720bb5668b45a6",
           "_props": {
             "filters": [
@@ -167857,8 +167857,7 @@
       "ConflictingItems": [
         "55d35ee94bdc2d61338b4568",
         "55d3632e4bdc2d972f8b4569",
-        "63d3ce0446bd475bcb50f55f",
-        "63d3d44a2a49307baf09386d"
+        "63d3ce0446bd475bcb50f55f"
       ],
       "CoolFactor": 0.968,
       "Description": "handguard_ar15_colt_m4_length_std",
@@ -186806,8 +186805,7 @@
         "5a34fbadc4a28200741e230a",
         "55d35ee94bdc2d61338b4568",
         "55d3632e4bdc2d972f8b4569",
-        "63d3ce0446bd475bcb50f55f",
-        "63d3d44a2a49307baf09386d"
+        "63d3ce0446bd475bcb50f55f"
       ],
       "CoolFactor": 1.021,
       "Description": "handguard_ar15_stngr_vypr_m_lok_10_inch",
@@ -290989,7 +290987,7 @@
         "rcid": ""
       },
       "Velocity": 17,
-        "Weight": 1.65,
+      "Weight": 1.65,
       "Width": 5
     },
     "_proto": "55d447bb4bdc2d892f8b456f",
@@ -354467,7 +354465,11 @@
       "CanSellOnRagfair": true,
       "CantRemoveFromSlotsDuringRaid": [],
       "CenterOfImpact": 0.045,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "640b20359ab20e15ee445fa9",
+        "6034e3d953a60014f970617b",
+        "595cfa8b86f77427437e845b"
+      ],
       "CoolFactor": 1.03,
       "Description": "Ствол для оружия на базе AR-15 под патрон 5.56х45 NATO длинной 370мм. Соответствует стандартному стволу для M4A1.\n",
       "DeviationCurve": 1.35,
@@ -354735,7 +354737,6 @@
         "5ae30db85acfc408fb139a05",
         "55d459824bdc2d892f8b4573",
         "5c78f2792e221600106f4683",
-        "5c78f26f2e221601da3581d1",
         "5d00e0cbd7ad1a6c6566a42d",
         "5d00f63bd7ad1a59283b1c1e"
       ],
@@ -356890,7 +356891,7 @@
       "RecoilForceBack": 750,
       "RecoilForceUp": 175,
       "RecoilPosZMult": 1,
-      "RecolDispersion": 10,
+      "RecolDispersion": 20,
       "ReloadMode": "InternalMagazine",
       "RepairComplexity": 0,
       "RepairCost": 105,
@@ -358559,7 +358560,7 @@
       "RecoilForceBack": 750,
       "RecoilForceUp": 175,
       "RecoilPosZMult": 1,
-      "RecolDispersion": 10,
+      "RecolDispersion": 20,
       "ReloadMode": "InternalMagazine",
       "RepairComplexity": 0,
       "RepairCost": 98,

@@ -22733,7 +22733,7 @@
         {
           "_id": "63e0e38a69739d1115030438",
           "_mergeSlotWithChildren": false,
-            "_name": "mod_pistolgrip",
+          "_name": "mod_pistolgrip",
           "_parent": "56e0598dd2720bb5668b45a6",
           "_props": {
             "filters": [
@@ -71802,7 +71802,7 @@
       "DropSoundType": "None",
       "Durability": 100,
       "EffectiveDistance": 0,
-      "Ergonomics": 7,
+        "Ergonomics": 6.5,
       "ExamineExperience": 2,
       "ExamineTime": 1,
       "ExaminedByDefault": true,
@@ -83075,7 +83075,7 @@
         "rcid": ""
       },
       "Velocity": 0,
-      "Weight": 0.31,
+        "Weight": 0.03,
       "Width": 1
     },
     "_proto": "5649b1c04bdc2d16268b457c",
@@ -122258,7 +122258,7 @@
         "rcid": ""
       },
       "Velocity": 0,
-      "Weight": 0.31,
+        "Weight": 0.03,
       "Width": 1
     },
     "_proto": "5649b1c04bdc2d16268b457c",
@@ -132292,7 +132292,7 @@
         "rcid": ""
       },
       "Velocity": 0,
-      "Weight": 0.31,
+        "Weight": 0.03,
       "Width": 1
     },
     "_proto": "5649b1c04bdc2d16268b457c",
@@ -154357,7 +154357,7 @@
       "DropSoundType": "None",
       "Durability": 100,
       "EffectiveDistance": 0,
-      "Ergonomics": 6.5,
+        "Ergonomics": 7,
       "ExamineExperience": 2,
       "ExamineTime": 1,
       "ExaminedByDefault": true,
@@ -156180,7 +156180,7 @@
         "rcid": ""
       },
       "Velocity": 0,
-      "Weight": 0.15,
+        "Weight": 0.025,
       "Width": 1,
       "Zooms": [
         [
@@ -176597,7 +176597,7 @@
         "z": 0
       },
       "RecoilForceBack": 750,
-      "RecoilForceUp": 289,
+        "RecoilForceUp": 216,
       "RecoilPosZMult": 1,
       "RecolDispersion": 17,
       "ReloadMode": "ExternalMagazine",
@@ -176873,7 +176873,7 @@
       "Durability": 100,
       "DurabilityBurnModificator": 1,
       "EffectiveDistance": 0,
-      "Ergonomics": 3,
+        "Ergonomics": 8,
       "ExamineExperience": 3,
       "ExamineTime": 1,
       "ExaminedByDefault": true,
@@ -177255,7 +177255,7 @@
       "DropSoundType": "None",
       "Durability": 100,
       "EffectiveDistance": 0,
-      "Ergonomics": 5,
+        "Ergonomics": 6.5,
       "ExamineExperience": 2,
       "ExamineTime": 1,
       "ExaminedByDefault": true,
@@ -309614,7 +309614,7 @@
       "Durability": 100,
       "DurabilityBurnModificator": 1,
       "EffectiveDistance": 0,
-      "Ergonomics": -1,
+        "Ergonomics": -0.5,
       "ExamineExperience": 4,
       "ExamineTime": 1,
       "ExaminedByDefault": true,
@@ -309654,7 +309654,7 @@
       "QuestStashMaxCount": 0,
       "RagFairCommissionModifier": 1,
       "RaidModdable": false,
-      "Recoil": -1,
+        "Recoil": 0,
       "RepairCost": 0,
       "RepairSpeed": 0,
       "Retractable": false,
@@ -356774,7 +356774,7 @@
       "AllowSlide": true,
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "black",
-      "BaseMalfunctionChance": 0.2024,
+        "BaseMalfunctionChance": 0.3036,
       "BoltAction": false,
       "BurstShotsCount": 3,
       "CameraRecoil": 0.1036,
@@ -356874,7 +356874,7 @@
       "Name": "Item",
       "NoFiremodeOnBoltcatch": false,
       "NotShownInSlot": false,
-      "OperatingResource": 2000,
+        "OperatingResource": 1500,
       "Prefab": {
         "path": "assets/content/weapons/avt40/weapon_toz_avt_40_762x54r_container.bundle",
         "rcid": ""
@@ -358443,7 +358443,7 @@
       "AllowSlide": true,
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "black",
-      "BaseMalfunctionChance": 0.2024,
+        "BaseMalfunctionChance": 0.3036,
       "BoltAction": false,
       "BurstShotsCount": 3,
       "CameraRecoil": 0.1036,
@@ -358543,7 +358543,7 @@
       "Name": "Item",
       "NoFiremodeOnBoltcatch": false,
       "NotShownInSlot": false,
-      "OperatingResource": 2000,
+        "OperatingResource": 1500,
       "Prefab": {
         "path": "assets/content/weapons/avt40/weapon_toz_svt_40_762x54r_container.bundle",
         "rcid": ""
@@ -367463,7 +367463,7 @@
       "BaseMalfunctionChance": 0.1505,
       "BoltAction": false,
       "BurstShotsCount": 2,
-      "CameraRecoil": 0.0696,
+        "CameraRecoil": 0.0626,
       "CameraSnap": 3.5,
       "CanPutIntoDuringTheRaid": true,
       "CanQueueSecondShot": true,
@@ -367578,10 +367578,10 @@
         "y": -0.25,
         "z": 0
       },
-      "RecoilForceBack": 354,
-      "RecoilForceUp": 106,
+        "RecoilForceBack": 336,
+        "RecoilForceUp": 100,
       "RecoilPosZMult": 1,
-      "RecolDispersion": 14,
+        "RecolDispersion": 12,
       "ReloadMode": "ExternalMagazine",
       "RepairComplexity": 0,
       "RepairCost": 254,
@@ -367909,7 +367909,7 @@
       "QuestStashMaxCount": 0,
       "RagFairCommissionModifier": 1,
       "RaidModdable": true,
-      "Recoil": 0,
+        "Recoil": -1,
       "RepairCost": 0,
       "RepairSpeed": 0,
       "ShortName": "gas_block_ak_izhmash_ak74_std",
@@ -368310,7 +368310,7 @@
         "rcid": ""
       },
       "Velocity": 0,
-      "Weight": 0.15,
+        "Weight": 0.025,
       "Width": 1,
       "Zooms": [
         [
@@ -368475,7 +368475,7 @@
       "Durability": 100,
       "DurabilityBurnModificator": 0.96,
       "EffectiveDistance": 0,
-      "Ergonomics": 6,
+        "Ergonomics": 7,
       "ExamineExperience": 2,
       "ExamineTime": 1,
       "ExaminedByDefault": true,

@@ -375321,7 +375321,7 @@
     "_parent": "57864a66245977548f04a81f",
     "_props": {
       "AnimationVariantsNumber": 0,
-      "BackgroundColor": "blue",
+        "BackgroundColor": "yellow",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": false,
       "ConflictingItems": [],

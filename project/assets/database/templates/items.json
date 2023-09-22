@@ -70770,7 +70770,7 @@
           "_parent": "5963866286f7747bf429b572",
           "_props": {
             "cellsH": 8,
-            "cellsV": 6,
+              "cellsV": 12,
             "filters": [],
             "isSortingTable": false,
             "maxCount": 0,
@@ -179434,9 +179434,9 @@
         "z": 0
       },
       "RecoilForceBack": 650,
-        "RecoilForceUp": 150,
+      "RecoilForceUp": 150,
       "RecoilPosZMult": 1,
-        "RecolDispersion": 18,
+      "RecolDispersion": 18,
       "ReloadMode": "ExternalMagazine",
       "RepairComplexity": 0,
       "RepairCost": 195,
@@ -180039,7 +180039,7 @@
       "QuestStashMaxCount": 0,
       "RagFairCommissionModifier": 1,
       "RaidModdable": true,
-        "Recoil": -32,
+      "Recoil": -32,
       "RepairCost": 0,
       "RepairSpeed": 0,
       "Retractable": false,
@@ -236551,8 +236551,8 @@
                   "626bb8532c923541184624b4",
                   "64785e7c19d732620e045e15",
                   "6478641c19d732620e045e17",
-                    "6477772ea8a38bb2050ed4db",
-                    "63fc449f5bd61c6cf3784a88"
+                  "6477772ea8a38bb2050ed4db",
+                  "63fc449f5bd61c6cf3784a88"
                 ],
                 "Shift": 0
               }
@@ -261803,7 +261803,7 @@
       "QuestStashMaxCount": 0,
       "RagFairCommissionModifier": 1,
       "RaidModdable": true,
-        "Recoil": -35,
+      "Recoil": -35,
       "RepairCost": 0,
       "RepairSpeed": 0,
       "Retractable": false,

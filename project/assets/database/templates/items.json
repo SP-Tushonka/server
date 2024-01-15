@@ -180086,7 +180086,8 @@
                 "Plate": "656f57dc27aed95beb08f628",
                 "armorColliders": [],
                 "armorPlateColliders": [
-                    "Plate_Granit_SAPI_chest"
+                    "Plate_Granit_SAPI_chest",
+                    "Plate_Korund_chest"
                 ],
                 "locked": false
               }
@@ -180178,7 +180179,8 @@
                 "Plate": "",
                 "armorColliders": [],
                 "armorPlateColliders": [
-                    "Plate_Korund_side_right_high"
+                    "Plate_Korund_side_right_high",
+                    "Plate_Granit_SSAPI_side_right_high"
                 ],
                 "locked": false
               }
@@ -234023,7 +234025,7 @@
                 "Plate": "",
                 "armorColliders": [],
                 "armorPlateColliders": [
-                    "Plate_Granit_SSAPI_side_left_high"
+                    "Plate_Granit_SSAPI_side_right_high"
                 ],
                 "locked": false
               }
@@ -464431,7 +464433,7 @@
       "IsUnsaleable": false,
       "ItemSound": "keys",
       "LootExperience": 20,
-        "MaximumNumberOfUsage": 3,
+      "MaximumNumberOfUsage": 3,
       "MergesWithChildren": false,
       "Name": "Factory office ",
       "NotShownInSlot": false,

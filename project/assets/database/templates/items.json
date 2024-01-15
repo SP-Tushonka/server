@@ -24051,7 +24051,7 @@
       "BulletMassGram": 3.65,
       "Caliber": "Caliber545x39",
       "CanRequireOnRagfair": false,
-        "CanSellOnRagfair": false,
+      "CanSellOnRagfair": false,
       "ConflictingItems": [],
       "Contusion": {
         "x": 0,
@@ -180086,8 +180086,7 @@
                 "Plate": "656f57dc27aed95beb08f628",
                 "armorColliders": [],
                 "armorPlateColliders": [
-                    "Plate_Granit_SAPI_chest",
-                    "Plate_Korund_chest"
+                    "Plate_Granit_SAPI_chest"
                 ],
                 "locked": false
               }
@@ -180179,8 +180178,7 @@
                 "Plate": "",
                 "armorColliders": [],
                 "armorPlateColliders": [
-                    "Plate_Korund_side_right_high",
-                    "Plate_Granit_SSAPI_side_right_high"
+                    "Plate_Korund_side_right_high"
                 ],
                 "locked": false
               }
@@ -234025,7 +234023,7 @@
                 "Plate": "",
                 "armorColliders": [],
                 "armorPlateColliders": [
-                    "Plate_Granit_SSAPI_side_right_high"
+                    "Plate_Granit_SSAPI_side_left_high"
                 ],
                 "locked": false
               }
@@ -464328,7 +464326,7 @@
         "path": "",
         "rcid": ""
       },
-        "Weight": 0.9,
+      "Weight": 0.9,
       "Width": 1
     },
     "_proto": "56742c324bdc2d150f8b456d",
@@ -464433,7 +464431,7 @@
       "IsUnsaleable": false,
       "ItemSound": "keys",
       "LootExperience": 20,
-        "MaximumNumberOfUsage": 2,
+        "MaximumNumberOfUsage": 3,
       "MergesWithChildren": false,
       "Name": "Factory office ",
       "NotShownInSlot": false,

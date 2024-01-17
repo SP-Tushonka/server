@@ -144655,7 +144655,8 @@
                 ],
                 "Plate": "65711bc79eb8c145180dbba1",
                 "armorColliders": [
-                  "Jaw"
+                    "Jaw",
+                    "HeadCommon"
                 ],
                 "armorPlateColliders": [],
                 "locked": true
@@ -180086,8 +180087,8 @@
                 "Plate": "656f57dc27aed95beb08f628",
                 "armorColliders": [],
                 "armorPlateColliders": [
-                    "Plate_Granit_SAPI_chest",
-                    "Plate_Korund_chest"
+                  "Plate_Granit_SAPI_chest",
+                  "Plate_Korund_chest"
                 ],
                 "locked": false
               }
@@ -180179,8 +180180,8 @@
                 "Plate": "",
                 "armorColliders": [],
                 "armorPlateColliders": [
-                    "Plate_Korund_side_right_high",
-                    "Plate_Granit_SSAPI_side_right_high"
+                  "Plate_Korund_side_right_high",
+                  "Plate_Granit_SSAPI_side_right_high"
                 ],
                 "locked": false
               }
@@ -234025,7 +234026,7 @@
                 "Plate": "",
                 "armorColliders": [],
                 "armorPlateColliders": [
-                    "Plate_Granit_SSAPI_side_right_high"
+                  "Plate_Granit_SSAPI_side_right_high"
                 ],
                 "locked": false
               }
@@ -438878,7 +438879,8 @@
       "Width": 1,
       "armorClass": "3",
       "armorColliders": [
-        "Jaw"
+          "Jaw",
+          "HeadCommon"
       ],
       "armorPlateColliders": [],
       "effects_damage": [],
@@ -464433,7 +464435,7 @@
       "IsUnsaleable": false,
       "ItemSound": "keys",
       "LootExperience": 20,
-      "MaximumNumberOfUsage": 3,
+        "MaximumNumberOfUsage": 2,
       "MergesWithChildren": false,
       "Name": "Factory office ",
       "NotShownInSlot": false,

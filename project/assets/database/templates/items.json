@@ -77656,7 +77656,7 @@
       "CanSellOnRagfair": true,
       "ConflictingItems": [],
       "Description": "item_quest_ms2000",
-      "DiscardLimit": 0,
+      "DiscardLimit": -1,
       "DiscardingBlock": false,
       "DropSoundType": "None",
       "ExamineExperience": 10,
@@ -133314,7 +133314,7 @@
       "CanSellOnRagfair": true,
       "ConflictingItems": [],
       "Description": "item_quest_signal_jammer",
-      "DiscardLimit": 0,
+      "DiscardLimit": -1,
       "DiscardingBlock": false,
       "DropSoundType": "None",
       "ExamineExperience": 10,
@@ -151166,7 +151166,7 @@
       "CanSellOnRagfair": true,
       "ConflictingItems": [],
       "Description": "item_spec_ipcamera",
-      "DiscardLimit": 0,
+      "DiscardLimit": -1,
       "DiscardingBlock": false,
       "DropSoundType": "None",
       "ExamineExperience": 10,
@@ -419368,7 +419368,8 @@
                   "61962d879bb3d20b0946d385",
                   "57a0dfb82459774d3078b56c",
                   "57a0e5022459774d1673f889",
-                  "5c0d668f86f7747ccb7f13b2"
+                  "5c0d668f86f7747ccb7f13b2",
+                  "6576f96220d53a5b8f3e395e"
                 ]
               }
             ]
@@ -420895,7 +420896,8 @@
                   "61962d879bb3d20b0946d385",
                   "57a0dfb82459774d3078b56c",
                   "57a0e5022459774d1673f889",
-                  "5c0d668f86f7747ccb7f13b2"
+                  "5c0d668f86f7747ccb7f13b2",
+                  "6576f96220d53a5b8f3e395e"
                 ],
                 "MaxStackCount": 0
               }

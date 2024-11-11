@@ -378956,7 +378956,7 @@
       "QuestItem": false,
       "QuestStashMaxCount": 0,
       "RagFairCommissionModifier": 1,
-      "RarityPvE": "Rare",
+      "RarityPvE": "Not_exist",
       "RepairCost": 0,
       "RepairSpeed": 0,
       "SearchSound": "drawer_metal_looting",

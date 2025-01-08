@@ -10514,6 +10514,8 @@
     "QuestName": "Trust Regain",
     "_id": "59c9392986f7742f6923add2",
     "acceptPlayerMessage": "59c9392986f7742f6923add2 acceptPlayerMessage",
+    "acceptanceAndFinishingSource": "eft",
+    "arenaLocations": [],
     "canShowNotificationsInGame": true,
     "changeQuestMessageText": "59c9392986f7742f6923add2 changeQuestMessageText",
     "completePlayerMessage": "59c9392986f7742f6923add2 completePlayerMessage",
@@ -10714,29 +10716,35 @@
     "declinePlayerMessage": "59c9392986f7742f6923add2 declinePlayerMessage",
     "description": "59c9392986f7742f6923add2 description",
     "failMessageText": "59c9392986f7742f6923add2 failMessageText",
+    "gameModes": [],
     "image": "/files/quest/icon/59c2742286f77475ec568d92.jpg",
     "instantComplete": false,
     "isKey": false,
     "location": "any",
     "name": "59c9392986f7742f6923add2 name",
     "note": "59c9392986f7742f6923add2 note",
+    "progressSource": "eft",
+    "rankingModes": [],
     "restartable": false,
     "rewards": {
       "Fail": [],
       "Started": [],
       "Success": [
         {
+          "availableInGameEditions": [],
           "id": "60c8bec280b2027f403dd99c",
           "index": 0,
           "target": "54cb57776803fa99248b456e",
           "type": "TraderStanding",
-          "value": "0.25"
+          "unknown": false,
+          "value": 0.25
         }
       ]
     },
     "secretQuest": false,
     "side": "Pmc",
     "startedMessageText": "59c9392986f7742f6923add2 startedMessageText",
+    "status": 0,
     "successMessageText": "59c9392986f7742f6923add2 successMessageText",
     "traderId": "54cb57776803fa99248b456e",
     "type": "PickUp"
@@ -76613,6 +76621,8 @@
     "QuestName": "Make Amends - Buyout",
     "_id": "626148251ed3bb5bcc5bd9ed",
     "acceptPlayerMessage": "626148251ed3bb5bcc5bd9ed acceptPlayerMessage",
+    "acceptanceAndFinishingSource": "eft",
+    "arenaLocations": [],
     "canShowNotificationsInGame": true,
     "changeQuestMessageText": "626148251ed3bb5bcc5bd9ed changeQuestMessageText",
     "completePlayerMessage": "626148251ed3bb5bcc5bd9ed completePlayerMessage",
@@ -76633,7 +76643,7 @@
           "target": [
             "5449016a4bdc2d6f028b456f"
           ],
-          "value": "1000000",
+          "value": 1000000,
           "visibilityConditions": []
         }
       ],
@@ -76649,6 +76659,22 @@
           "target": "638f541a29ffd1183d187f57",
           "value": 0,
           "visibilityConditions": []
+        },
+        {
+          "availableAfter": 0,
+          "conditionType": "Quest",
+          "dispersion": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "639c6708dae1800a3e1359af",
+          "index": 0,
+          "parentId": "",
+          "status": [
+            4,
+            5
+          ],
+          "target": "625d700cc48e6c62a440fab5",
+          "visibilityConditions": []
         }
       ],
       "Fail": []
@@ -76656,29 +76682,35 @@
     "declinePlayerMessage": "626148251ed3bb5bcc5bd9ed declinePlayerMessage",
     "description": "626148251ed3bb5bcc5bd9ed description",
     "failMessageText": "626148251ed3bb5bcc5bd9ed failMessageText",
+    "gameModes": [],
     "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
     "instantComplete": false,
     "isKey": false,
     "location": "any",
     "name": "626148251ed3bb5bcc5bd9ed name",
     "note": "626148251ed3bb5bcc5bd9ed note",
+    "progressSource": "eft",
+    "rankingModes": [],
     "restartable": false,
     "rewards": {
       "Fail": [],
       "Started": [],
       "Success": [
         {
+          "availableInGameEditions": [],
           "id": "63ab697e87413d64ae0ac213",
           "index": 0,
           "target": "638f541a29ffd1183d187f57",
           "type": "TraderStanding",
-          "value": "0.01"
+          "unknown": false,
+          "value": 0.01
         }
       ]
     },
     "secretQuest": false,
     "side": "Pmc",
     "startedMessageText": "626148251ed3bb5bcc5bd9ed startedMessageText",
+    "status": 0,
     "successMessageText": "626148251ed3bb5bcc5bd9ed successMessageText",
     "traderId": "5a7c2eca46aef81a7ca2145d",
     "type": "Loyalty"
@@ -76687,6 +76719,8 @@
     "QuestName": "Make Amends - Equipment",
     "_id": "6261482fa4eb80027c4f2e11",
     "acceptPlayerMessage": "6261482fa4eb80027c4f2e11 acceptPlayerMessage",
+    "acceptanceAndFinishingSource": "eft",
+    "arenaLocations": [],
     "canShowNotificationsInGame": true,
     "changeQuestMessageText": "6261482fa4eb80027c4f2e11 changeQuestMessageText",
     "completePlayerMessage": "6261482fa4eb80027c4f2e11 completePlayerMessage",
@@ -76707,7 +76741,7 @@
           "target": [
             "5c46fbd72e2216398b5a8c9c"
           ],
-          "value": "4",
+          "value": 4,
           "visibilityConditions": []
         }
       ],
@@ -76733,29 +76767,35 @@
     "declinePlayerMessage": "6261482fa4eb80027c4f2e11 declinePlayerMessage",
     "description": "6261482fa4eb80027c4f2e11 description",
     "failMessageText": "6261482fa4eb80027c4f2e11 failMessageText",
+    "gameModes": [],
     "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
     "instantComplete": false,
     "isKey": false,
     "location": "any",
     "name": "6261482fa4eb80027c4f2e11 name",
     "note": "6261482fa4eb80027c4f2e11 note",
+    "progressSource": "eft",
+    "rankingModes": [],
     "restartable": false,
     "rewards": {
       "Fail": [],
       "Started": [],
       "Success": [
         {
+          "availableInGameEditions": [],
           "id": "63ab698b3606f31cf40e5ae0",
           "index": 0,
           "target": "638f541a29ffd1183d187f57",
           "type": "TraderStanding",
-          "value": "0.01"
+          "unknown": false,
+          "value": 0.01
         }
       ]
     },
     "secretQuest": false,
     "side": "Pmc",
     "startedMessageText": "6261482fa4eb80027c4f2e11 startedMessageText",
+    "status": 0,
     "successMessageText": "6261482fa4eb80027c4f2e11 successMessageText",
     "traderId": "5a7c2eca46aef81a7ca2145d",
     "type": "PickUp"
@@ -82889,6 +82929,8 @@
     "QuestName": "Make Amends",
     "_id": "6391d90f4ed9512be67647df",
     "acceptPlayerMessage": "6391d90f4ed9512be67647df acceptPlayerMessage",
+    "acceptanceAndFinishingSource": "eft",
+    "arenaLocations": [],
     "canShowNotificationsInGame": true,
     "changeQuestMessageText": "6391d90f4ed9512be67647df changeQuestMessageText",
     "completePlayerMessage": "6391d90f4ed9512be67647df completePlayerMessage",
@@ -82903,14 +82945,14 @@
           "id": "6391d9ba4b15ca31f76bc325",
           "index": 0,
           "isEncoded": false,
-          "maxDurability": "100",
-          "minDurability": "0",
+          "maxDurability": 100,
+          "minDurability": 0,
           "onlyFoundInRaid": false,
           "parentId": "",
           "target": [
             "6331bb0d1aa9f42b804997a6"
           ],
-          "value": "1",
+          "value": 1,
           "visibilityConditions": []
         },
         {
@@ -82922,14 +82964,14 @@
           "id": "6391d9e7ee79ee703e3012e5",
           "index": 1,
           "isEncoded": true,
-          "maxDurability": "100",
-          "minDurability": "0",
+          "maxDurability": 100,
+          "minDurability": 0,
           "onlyFoundInRaid": false,
           "parentId": "",
           "target": [
             "62e910aaf957f2915e0a5e36"
           ],
-          "value": "1",
+          "value": 1,
           "visibilityConditions": [
             {
               "conditionType": "CompleteCondition",
@@ -82953,7 +82995,7 @@
           "target": [
             "6331bb0d1aa9f42b804997a6"
           ],
-          "value": "1",
+          "value": 1,
           "visibilityConditions": [
             {
               "conditionType": "CompleteCondition",
@@ -82963,6 +83005,7 @@
           ]
         },
         {
+          "completeInSeconds": 0,
           "conditionType": "CounterCreator",
           "counter": {
             "conditions": [
@@ -82971,7 +83014,7 @@
                 "dynamicLocale": false,
                 "id": "63ab6aa8e842787ad213571b",
                 "target": "meh_50_visit_area_check_1",
-                "value": "1"
+                "value": 1
               }
             ],
             "id": "63ab6a89e842787ad213571a"
@@ -82981,10 +83024,12 @@
           "globalQuestCounterId": "",
           "id": "63ab6a89e842787ad2135719",
           "index": 4,
+          "isNecessary": false,
+          "isResetOnConditionFailed": false,
           "oneSessionOnly": false,
           "parentId": "",
           "type": "Exploration",
-          "value": "1",
+          "value": 1,
           "visibilityConditions": [
             {
               "conditionType": "CompleteCondition",
@@ -83016,6 +83061,7 @@
           "compareMethod": "<=",
           "conditionType": "TraderStanding",
           "dynamicLocale": false,
+          "globalQuestCounterId": "",
           "id": "63a6c752d4153566a073285a",
           "index": 0,
           "parentId": "",
@@ -83028,37 +83074,46 @@
     "declinePlayerMessage": "6391d90f4ed9512be67647df declinePlayerMessage",
     "description": "6391d90f4ed9512be67647df description",
     "failMessageText": "6391d90f4ed9512be67647df failMessageText",
+    "gameModes": [],
     "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
     "instantComplete": false,
     "isKey": false,
     "location": "5704e4dad2720bb55b8b4567",
     "name": "6391d90f4ed9512be67647df name",
     "note": "6391d90f4ed9512be67647df note",
+    "progressSource": "eft",
+    "rankingModes": [],
     "restartable": false,
     "rewards": {
       "Fail": [
         {
+          "availableInGameEditions": [],
           "id": "63a6c78d0530a47cb931859a",
           "index": 0,
           "target": "5a7c2eca46aef81a7ca2145d",
           "type": "TraderStanding",
-          "value": "-0.02"
+          "unknown": false,
+          "value": -0.02
         }
       ],
       "Started": [],
       "Success": [
         {
+          "availableInGameEditions": [],
           "id": "63ab69f61287ef0b827d0c94",
           "index": 0,
           "target": "5a7c2eca46aef81a7ca2145d",
           "type": "TraderStanding",
-          "value": "0.01"
+          "unknown": false,
+          "value": 0.01
         },
         {
+          "availableInGameEditions": [],
           "id": "63ab69fbe842787ad2135718",
           "index": 1,
           "target": "638f541a29ffd1183d187f57",
           "type": "TraderStandingRestore",
+          "unknown": false,
           "value": 0.01
         }
       ]
@@ -83066,6 +83121,7 @@
     "secretQuest": false,
     "side": "Pmc",
     "startedMessageText": "6391d90f4ed9512be67647df startedMessageText",
+    "status": 0,
     "successMessageText": "6391d90f4ed9512be67647df successMessageText",
     "traderId": "5a7c2eca46aef81a7ca2145d",
     "type": "Multi"
@@ -110797,62 +110853,25 @@
         },
         {
           "availableInGameEditions": [
-            "tournament_live",
-            "tournament",
-            "standard",
-            "press_edition",
-            "left_behind",
-            "prepare_for_escape",
-            "exhibition",
-            "edge_of_darkness",
-            "develop"
+            "eod_tue_edition",
+            "unheard_edition"
           ],
           "findInRaid": false,
-          "id": "6682b19d36c4afb83a0ff0d9",
+          "id": "6682b16a75d2dfc8330a07e7",
           "index": 0,
           "items": [
             {
-              "_id": "677576c34ec41f3c710a6bee",
+              "_id": "677e990da03da7967902c54c",
               "_tpl": "569668774bdc2da2298b4568",
               "upd": {
-                "StackObjectsCount": 2000
+                "StackObjectsCount": 6000
               }
             }
           ],
-          "target": "677576c34ec41f3c710a6bee",
+          "target": "677e990da03da7967902c54c",
           "type": "Item",
           "unknown": false,
-          "value": 2000
-        },
-        {
-          "availableInGameEditions": [
-            "develop",
-            "edge_of_darkness",
-            "exhibition",
-            "left_behind",
-            "prepare_for_escape",
-            "press_edition",
-            "standard",
-            "tournament_live",
-            "tournament"
-          ],
-          "findInRaid": true,
-          "id": "66797fc869825e8dc200217c",
-          "index": 0,
-          "items": [
-            {
-              "_id": "677576c34ec41f3c710a6bf0",
-              "_tpl": "65ddcc9cfa85b9f17d0dfb07",
-              "upd": {
-                "SpawnedInSession": true,
-                "StackObjectsCount": 1
-              }
-            }
-          ],
-          "target": "677576c34ec41f3c710a6bf0",
-          "type": "Item",
-          "unknown": false,
-          "value": 1
+          "value": 6000
         }
       ]
     },

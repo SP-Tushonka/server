@@ -104468,30 +104468,13 @@
     "QuestName": "Easy Money - Part 1",
     "_id": "66058cb22cee99303f1ba067",
     "acceptPlayerMessage": "66058cb22cee99303f1ba067 acceptPlayerMessage",
+    "acceptanceAndFinishingSource": "eft",
+    "arenaLocations": [],
     "canShowNotificationsInGame": true,
     "changeQuestMessageText": "66058cb22cee99303f1ba067 changeQuestMessageText",
     "completePlayerMessage": "66058cb22cee99303f1ba067 completePlayerMessage",
     "conditions": {
       "AvailableForFinish": [
-        {
-          "conditionType": "FindItem",
-          "countInRaid": false,
-          "dogtagLevel": 0,
-          "dynamicLocale": false,
-          "globalQuestCounterId": "",
-          "id": "664bbad8d5057479ac4b8002",
-          "index": 0,
-          "isEncoded": false,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "onlyFoundInRaid": false,
-          "parentId": "",
-          "target": [
-            "664a5775f3d3570fba06be64"
-          ],
-          "value": 1,
-          "visibilityConditions": []
-        },
         {
           "conditionType": "LeaveItemAtLocation",
           "dogtagLevel": 0,
@@ -104506,7 +104489,7 @@
           "parentId": "",
           "plantTime": 30,
           "target": [
-            "664a5775f3d3570fba06be64"
+            "675a0288c3102563bd01c9c3"
           ],
           "value": 1,
           "visibilityConditions": [],
@@ -104547,51 +104530,98 @@
     "declinePlayerMessage": "66058cb22cee99303f1ba067 declinePlayerMessage",
     "description": "66058cb22cee99303f1ba067 description",
     "failMessageText": "66058cb22cee99303f1ba067 failMessageText",
+    "gameModes": [],
     "image": "/files/quest/icon/66562a95dadbac1a541f638f.png",
     "instantComplete": false,
     "isKey": false,
     "location": "any",
     "name": "66058cb22cee99303f1ba067 name",
     "note": "66058cb22cee99303f1ba067 note",
+    "progressSource": "eft",
+    "rankingModes": [],
     "restartable": false,
     "rewards": {
       "Fail": [],
-      "Started": [],
+      "Started": [
+        {
+          "availableInGameEditions": [],
+          "findInRaid": true,
+          "id": "67975bb3a55307fd988c3229",
+          "index": 0,
+          "items": [
+            {
+              "_id": "67a279c9a7c40412e006d08d",
+              "_tpl": "675a0288c3102563bd01c9c3",
+              "upd": {
+                "SpawnedInSession": true,
+                "StackObjectsCount": 1
+              }
+            },
+            {
+              "_id": "67a279c9a7c40412e006d08e",
+              "_tpl": "675a0288c3102563bd01c9c3",
+              "upd": {
+                "SpawnedInSession": true,
+                "StackObjectsCount": 1
+              }
+            },
+            {
+              "_id": "67a279c9a7c40412e006d08f",
+              "_tpl": "675a0288c3102563bd01c9c3",
+              "upd": {
+                "SpawnedInSession": true,
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "67a279c9a7c40412e006d08f",
+          "type": "Item",
+          "unknown": false,
+          "value": 3
+        }
+      ],
       "Success": [
         {
-          "findInRaid": true,
+          "availableInGameEditions": [],
+          "id": "6606b9159f59e625462accb1",
+          "index": 0,
+          "type": "Experience",
+          "unknown": false,
+          "value": 4500
+        },
+        {
+          "availableInGameEditions": [],
+          "findInRaid": false,
           "id": "6606b8ff06ef1d50a60c1f59",
           "index": 0,
           "items": [
             {
-              "_id": "66b9f71a5b348d7a870f076b",
+              "_id": "67a279c9a7c40412e006d091",
               "_tpl": "5449016a4bdc2d6f028b456f",
               "upd": {
                 "StackObjectsCount": 35000
               }
             }
           ],
-          "target": "66b9f71a5b348d7a870f076b",
+          "target": "67a279c9a7c40412e006d091",
           "type": "Item",
-          "value": "35000"
+          "unknown": false,
+          "value": 35000
         },
         {
-          "id": "6606b9159f59e625462accb1",
-          "index": 1,
-          "type": "Experience",
-          "value": "4500"
-        },
-        {
+          "availableInGameEditions": [],
           "id": "6606b92cda30b620a34e6ea9",
-          "index": 2,
+          "index": 0,
           "target": "6617beeaa9cfa777ca915b7c",
-          "type": "TraderUnlock"
+          "type": "TraderUnlock",
+          "unknown": false
         }
       ]
     },
     "secretQuest": false,
     "side": "Pmc",
     "startedMessageText": "66058cb22cee99303f1ba067 startedMessageText",
+    "status": 0,
     "successMessageText": "66058cb22cee99303f1ba067 successMessageText",
     "traderId": "58330581ace78e27b8b10cee",
     "type": "PickUp"

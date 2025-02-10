@@ -109635,55 +109635,21 @@
         },
         {
           "availableInGameEditions": [
-            "eod_tue_edition",
-            "edge_of_darkness"
+            "develop",
+            "unheard_edition",
+            "exhibition",
+            "left_behind",
+            "prepare_for_escape",
+            "press_edition",
+            "standard",
+            "tournament",
+            "tournament_live"
           ],
-          "findInRaid": true,
-          "id": "6671de8abaf4e04a020c7323",
+          "id": "6671de23baf4e04a020c7322",
           "index": 0,
           "items": [
             {
-              "_id": "679fb456e5533f2c2d0e6fa1",
-              "_tpl": "66507eabf5ddb0818b085b68",
-              "upd": {
-                "SpawnedInSession": true,
-                "StackObjectsCount": 1
-              }
-            },
-            {
-              "_id": "679fb456e5533f2c2d0e6fa2",
-              "_tpl": "66507eabf5ddb0818b085b68",
-              "upd": {
-                "SpawnedInSession": true,
-                "StackObjectsCount": 1
-              }
-            },
-            {
-              "_id": "679fb456e5533f2c2d0e6fa3",
-              "_tpl": "66507eabf5ddb0818b085b68",
-              "upd": {
-                "SpawnedInSession": true,
-                "StackObjectsCount": 1
-              }
-            },
-            {
-              "_id": "679fb456e5533f2c2d0e6fa4",
-              "_tpl": "66507eabf5ddb0818b085b68",
-              "upd": {
-                "SpawnedInSession": true,
-                "StackObjectsCount": 1
-              }
-            },
-            {
-              "_id": "679fb456e5533f2c2d0e6fa5",
-              "_tpl": "66507eabf5ddb0818b085b68",
-              "upd": {
-                "SpawnedInSession": true,
-                "StackObjectsCount": 1
-              }
-            },
-            {
-              "_id": "679fb456e5533f2c2d0e6fa6",
+              "_id": "67a9d8fe7121b2631519b59e",
               "_tpl": "66507eabf5ddb0818b085b68",
               "upd": {
                 "SpawnedInSession": true,
@@ -109691,10 +109657,11 @@
               }
             }
           ],
-          "target": "679fb456e5533f2c2d0e6fa6",
-          "type": "Item",
-          "unknown": true,
-          "value": 6
+          "loyaltyLevel": 2,
+          "target": "67a9d8fe7121b2631519b59e",
+          "traderId": 7,
+          "type": "ProductionScheme",
+          "unknown": true
         }
       ]
     },

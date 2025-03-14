@@ -111408,7 +111408,9 @@
             "59e7643b86f7742cbf2c109a",
             "572b7adb24597762ae139821",
             "674da107c512807d1a0e7436",
-            "674da9cf0cb4bcde7103c07b"
+            "674da9cf0cb4bcde7103c07b",
+            "66b5f247af44ca0014063c02",
+            "674589d98dd67746010329e6"
           ],
           "traderId": "5ac3b934156ae10c4430e83c",
           "value": 250,
@@ -160003,7 +160005,8 @@
             "560d657b4bdc2da74d8b4572",
             "5a7b4960e899ef197b331a2d",
             "5a6b5e468dc32e001207faf5",
-            "5a6b592c8dc32e00094b97bf"
+            "5a6b592c8dc32e00094b97bf",
+            "5a718da68dc32e000d46d264"
           ],
           "durability": {
             "compareMethod": ">=",
